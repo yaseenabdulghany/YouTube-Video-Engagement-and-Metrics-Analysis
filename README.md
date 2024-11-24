@@ -23,15 +23,14 @@ This dataset contains detailed engagement metrics for YouTube videos over time, 
 - **Annotations & Cards**: Interaction data for video annotations and cards.  
 - **Subscribers**: Gains and losses of subscribers due to videos.  
 
-## Key Questions Addressed  
-1. Which videos had the highest engagement in terms of views, likes, and comments?  
-2. How does daily engagement vary across different videos?  
-3. What drives subscriber gains and losses?  
-4. Are there seasonal trends in video performance?  
-5. How do annotations and cards influence engagement?  
+## Key Questions Explored:
+1. Which videos had the highest engagement (views, likes, comments, and shares)?
+2. Is there a relationship between views and average view duration?
+3. What is the impact of annotations and cards on engagement?
+4. Are viewers more likely to click on cards or teaser cards?
+5. What drives subscriber gains and losses?
+6. Which videos caused the most significant subscriber losses?
+7. How has engagement changed over time?
+8. Are there seasonal trends in video performance?
 
-## Usage  
-Clone the repository and run the Jupyter Notebook to explore the analysis and visualizations.  
 
-```bash  
-git clone https://github.com/your-username/YouTube-Engagement-Analysis.git  
